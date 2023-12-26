@@ -1,6 +1,6 @@
 # weatherapp
 
-A new Flutter project. Create Your Own Real Time Weather App Using openweathermap API.
+A new flutter project. Create Your Own Real Time Weather App Using openweathermap API.
 
 ## Required Packages
 
